@@ -14,7 +14,7 @@ I'm a Geologist 🌎, Programmer 💻, and Astronomy Enthusiast 🔭
 
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
-- 🗣️ English, French, Spanish. 
+- 🗣️ English, Français, Español. 
 
 
 
