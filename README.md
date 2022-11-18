@@ -4,7 +4,7 @@ Hi there, I'm Daniel</a> 👋
 </h3>
 
 <h2 align="center">
-I'm geologist 🌎 and front-end developer 💻
+I'm geologist 🌎 and web developer 💻
 
 
 ### 🤝 Connect with me:
