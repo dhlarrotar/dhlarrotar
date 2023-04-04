@@ -15,13 +15,6 @@ I'm geologist 🌎 and web developer 💻
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
 - 🗣️ English, Français, Español. 
 
-
-
-## 🌱 I'm currently learning
-
-- HTML5 , CSS3 , JavaScript
-- Git / GitHub
-
 ## 💼 Technical Skills
 </br>
 
