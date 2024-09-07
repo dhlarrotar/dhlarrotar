@@ -9,7 +9,7 @@ I'm geologist 🌎 and web developer 💻
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/dhlarrotar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel Larrota Rincón | LinkedIn"></a>
-<a href="https://www.instagram.com/dlar_geo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Daniel Larrota Rincón | Instagram"></a>
+<a href="https://www.researchgate.net/profile/Daniel-Larrota-Rincon"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="Daniel Larrota Rincón | ResearchGate"></a>
 
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
